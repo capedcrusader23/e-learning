@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AshishkrGoyal/e-learning/issues"
   },
-  "homepage": "https://github.com/AshishkrGoyal/e-learning#readme"
+  "homepage": "https://github.com/AshishkrGoyal/e-learning#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
 }
