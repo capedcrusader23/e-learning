@@ -2,12 +2,12 @@
 
 module.exports={
   google:{
-      id:'637838859778-k7dth3dfbnd18q0r7b99r290udbnt44d.apps.googleusercontent.com',
-      ke:'K4CQQzyRzkJ89KMnZPOKqTim'
+      id:'597465044552-1esvvomf5b53rq4l0stgsqqd7gf9rqt9.apps.googleusercontent.com',
+      ke:'cCNdQLcYoLt0MwLQyTvAIME1'
 
   },
     mongodb:{
-      mon:'mongodb://Uphaar:uphaar@ds239137.mlab.com:39137/elearning'
+      mon:'mongodb://Darknight:uphaar2398@ds241869.mlab.com:41869/test1'
     },
     cook:{
       ke:'CapedCrusader'

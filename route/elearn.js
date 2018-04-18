@@ -14,4 +14,11 @@ route.get('/google/redirect',passport.authenticate('google'),function(req,res){
    res.redirect('/profile');
 });
 
+route.get('/github',passport.authenticate('github'));
+
+
+
+route.get('/github/redirect',passport.authenticate('github'),function(req,res){
+   res.send('Logged in Using fb');
+});
 module.exports=route;
